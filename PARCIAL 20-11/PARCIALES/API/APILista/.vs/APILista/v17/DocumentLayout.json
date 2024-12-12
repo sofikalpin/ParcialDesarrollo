@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APILista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EE66D5-4D91-4DE2-BEBC-355759E63463}|APILista.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apilista\\pesona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EE66D5-4D91-4DE2-BEBC-355759E63463}|APILista.csproj|solutionrelative:pesona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EE66D5-4D91-4DE2-BEBC-355759E63463}|APILista.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apilista\\controllers\\listpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EE66D5-4D91-4DE2-BEBC-355759E63463}|APILista.csproj|solutionrelative:controllers\\listpersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pesona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APILista\\Pesona.cs",
+              "RelativeDocumentMoniker": "Pesona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APILista\\Pesona.cs",
+              "RelativeToolTip": "Pesona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:22:26.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListPersona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APILista\\Controllers\\ListPersona.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListPersona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APILista\\Controllers\\ListPersona.cs",
+              "RelativeToolTip": "Controllers\\ListPersona.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:11:20.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

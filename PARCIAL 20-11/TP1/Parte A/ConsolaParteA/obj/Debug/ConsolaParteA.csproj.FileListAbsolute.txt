@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\bin\Debug\ConsolaParteA.exe.config
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\bin\Debug\ConsolaParteA.exe
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\bin\Debug\ConsolaParteA.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\bin\Debug\OperacionesParteA.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\bin\Debug\OperacionesParteA.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\obj\Debug\ConsolaParteA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\obj\Debug\ConsolaParteA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\obj\Debug\ConsolaP.AAC44183.Up2Date
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\obj\Debug\ConsolaParteA.exe
+C:\Users\Usuario\Documents\PARCIAL 20-11\ConsolaParteA\obj\Debug\ConsolaParteA.pdb

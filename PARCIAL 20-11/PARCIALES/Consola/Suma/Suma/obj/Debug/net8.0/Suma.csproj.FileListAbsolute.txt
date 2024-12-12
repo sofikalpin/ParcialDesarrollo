@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\Suma.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\Suma.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\Suma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\bin\Debug\net8.0\Suma.exe
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\bin\Debug\net8.0\Suma.deps.json
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\bin\Debug\net8.0\Suma.runtimeconfig.json
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\bin\Debug\net8.0\Suma.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\bin\Debug\net8.0\Suma.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\Suma.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\refint\Suma.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\Suma.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\Suma.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Consola\Suma\Suma\obj\Debug\net8.0\ref\Suma.dll

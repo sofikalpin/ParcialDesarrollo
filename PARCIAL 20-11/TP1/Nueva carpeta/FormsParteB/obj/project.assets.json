@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "MaterialSkin2DotNet/1.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/MaterialSkin2DotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialSkin2DotNet.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "MaterialSkin2DotNet/1.1.2": {
+      "sha512": "/nI5+q7P3YA5JJpOBJXd93BbAPoQvVV8kAmtsdnfPh4z3eh1ybKfJVVEHUwrZZqScV4KjboRJMmqkzNWq++i9w==",
+      "type": "package",
+      "path": "materialskin2dotnet/1.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/netcoreapp3.1/MaterialSkin2DotNet.dll",
+        "materialskin2dotnet.1.1.2.nupkg.sha512",
+        "materialskin2dotnet.nuspec",
+        "nuget_icon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "MaterialSkin2DotNet >= 1.1.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\PARCIAL 20-11\\TP1\\Nueva carpeta\\FormsParteB\\FormsParteB.csproj",
+      "projectName": "FormsParteB",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\PARCIAL 20-11\\TP1\\Nueva carpeta\\FormsParteB\\FormsParteB.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\PARCIAL 20-11\\TP1\\Nueva carpeta\\FormsParteB\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "MaterialSkin2DotNet": {
+            "target": "Package",
+            "version": "[1.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

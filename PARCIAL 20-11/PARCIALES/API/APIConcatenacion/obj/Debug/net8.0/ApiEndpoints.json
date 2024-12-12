@@ -1,0 +1,19 @@
+[
+  {
+    "ContainingType": "APIConcatenacion.Controllers.Conca",
+    "Method": "ConcatenarPalabra",
+    "RelativePath": "Conca",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "palabra",
+        "Type": "APIConcatenacion.palabras",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Concatenar"
+  }
+]

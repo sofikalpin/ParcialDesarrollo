@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "OBJcON.Controllers.AddObjController",
+    "Method": "AddPersona",
+    "RelativePath": "AddObj",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "persona",
+        "Type": "APIOLIST.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OBJcON.Controllers.AddObjController",
+    "Method": "GetPersonas",
+    "RelativePath": "AddObj/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OBJcON.Controllers.AddObjController",
+    "Method": "DeletePersona",
+    "RelativePath": "AddObj/deleteByName/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OBJcON.Controllers.AddObjController",
+    "Method": "GetPersonaByName",
+    "RelativePath": "AddObj/searchByName/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

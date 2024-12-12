@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\bin\Debug\OperacionA.exe.config
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\bin\Debug\OperacionA.exe
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\bin\Debug\OperacionA.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\obj\Debug\OperacionA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\obj\Debug\OperacionA.Form1.resources
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\obj\Debug\OperacionA.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\obj\Debug\OperacionA.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\obj\Debug\OperacionA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\obj\Debug\OperacionA.exe
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\Ventanas\OperacionA\obj\Debug\OperacionA.pdb

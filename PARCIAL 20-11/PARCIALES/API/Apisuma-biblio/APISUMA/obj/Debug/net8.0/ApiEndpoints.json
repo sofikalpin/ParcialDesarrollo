@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "APISUMA.Controllers.WeatherForecastController",
+    "Method": "Palabra",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pa1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pa2",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Palabras"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "ContainingType": "APILongitudString.Controllers.LongitudController",
+    "Method": "obtenerLongitud",
+    "RelativePath": "Longitud",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

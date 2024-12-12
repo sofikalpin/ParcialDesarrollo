@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "APIUSUEXI.Controllers.UsuariosController",
+    "Method": "ExisteUsuario",
+    "RelativePath": "api/Usuarios/existe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

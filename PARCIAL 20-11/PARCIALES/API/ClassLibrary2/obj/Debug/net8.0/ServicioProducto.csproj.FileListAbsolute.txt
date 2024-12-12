@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\bin\Debug\net8.0\ServicioProducto.deps.json
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\bin\Debug\net8.0\ServicioProducto.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\bin\Debug\net8.0\ServicioProducto.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\bin\Debug\net8.0\Modelos.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\bin\Debug\net8.0\Modelos.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ServicioProducto.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ServicioProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ServicioProducto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ServicioProducto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ServicioProducto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\Servicio.554C22E4.Up2Date
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ServicioProducto.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\refint\ServicioProducto.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ServicioProducto.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ClassLibrary2\obj\Debug\net8.0\ref\ServicioProducto.dll

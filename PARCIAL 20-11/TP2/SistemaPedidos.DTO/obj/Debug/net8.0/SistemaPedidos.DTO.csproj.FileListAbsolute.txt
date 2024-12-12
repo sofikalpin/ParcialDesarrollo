@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\bin\Debug\net8.0\SistemaPedidos.DTO.deps.json
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\bin\Debug\net8.0\SistemaPedidos.DTO.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\bin\Debug\net8.0\SistemaPedidos.DTO.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\SistemaPedidos.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\SistemaPedidos.DTO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\SistemaPedidos.DTO.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\SistemaPedidos.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\SistemaPedidos.DTO.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\refint\SistemaPedidos.DTO.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\SistemaPedidos.DTO.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DTO\obj\Debug\net8.0\ref\SistemaPedidos.DTO.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaPedidos.OCL/1.0.0": {
+        "runtime": {
+          "SistemaPedidos.OCL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaPedidos.OCL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

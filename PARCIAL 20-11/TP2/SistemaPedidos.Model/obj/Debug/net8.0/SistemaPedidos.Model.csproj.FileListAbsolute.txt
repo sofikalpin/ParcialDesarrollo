@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\bin\Debug\net8.0\SistemaPedidos.Model.deps.json
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\bin\Debug\net8.0\SistemaPedidos.Model.runtimeconfig.json
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\bin\Debug\net8.0\SistemaPedidos.Model.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\bin\Debug\net8.0\SistemaPedidos.Model.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\refint\SistemaPedidos.Model.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\SistemaPedidos.Model.genruntimeconfig.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.Model\obj\Debug\net8.0\ref\SistemaPedidos.Model.dll

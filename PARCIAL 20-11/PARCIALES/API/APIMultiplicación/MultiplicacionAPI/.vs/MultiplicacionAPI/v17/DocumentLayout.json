@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\MultiplicacionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07AEEA7-BAF2-4565-8700-E61EA1BCF230}|..\\SERVICE\\SERVICE.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apimultiplicaci\u00F3n\\service\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07AEEA7-BAF2-4565-8700-E61EA1BCF230}|..\\SERVICE\\SERVICE.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apimultiplicaci\u00F3n\\service\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B714-F708-4C1F-B8A8-19E549F3EAA8}|MultiplicacionAPI.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apimultiplicaci\u00F3n\\multiplicacionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B714-F708-4C1F-B8A8-19E549F3EAA8}|MultiplicacionAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA98B714-F708-4C1F-B8A8-19E549F3EAA8}|MultiplicacionAPI.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apimultiplicaci\u00F3n\\multiplicacionapi\\controllers\\multicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA98B714-F708-4C1F-B8A8-19E549F3EAA8}|MultiplicacionAPI.csproj|solutionrelative:controllers\\multicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\MultiplicacionAPI\\Controllers\\MultiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MultiController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\MultiplicacionAPI\\Controllers\\MultiController.cs",
+              "RelativeToolTip": "Controllers\\MultiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:30:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\MultiplicacionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\MultiplicacionAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:27:38.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\SERVICE\\IServicio.cs",
+              "RelativeDocumentMoniker": "..\\SERVICE\\IServicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\SERVICE\\IServicio.cs",
+              "RelativeToolTip": "..\\SERVICE\\IServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:27:27.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\SERVICE\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\SERVICE\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIMultiplicaci\u00F3n\\SERVICE\\Servicio.cs",
+              "RelativeToolTip": "..\\SERVICE\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:26:33.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

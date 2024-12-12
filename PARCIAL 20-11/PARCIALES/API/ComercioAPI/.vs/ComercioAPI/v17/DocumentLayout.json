@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ComercioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236DAB0B-2574-43E9-9860-79004C7D6FB4}|..\\Modelos\\Modelos.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\modelos\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570C1BFB-11EE-4EC4-90F5-A85F8D4E2B42}|..\\ClassLibrary2\\ServicioProducto.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\classlibrary2\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08377F4-5DF0-4F29-B28A-F39BAECF1D64}|ComercioAPI.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\comercioapi\\controllers\\comerciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08377F4-5DF0-4F29-B28A-F39BAECF1D64}|ComercioAPI.csproj|solutionrelative:controllers\\comerciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08377F4-5DF0-4F29-B28A-F39BAECF1D64}|ComercioAPI.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\comercioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08377F4-5DF0-4F29-B28A-F39BAECF1D64}|ComercioAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08377F4-5DF0-4F29-B28A-F39BAECF1D64}|ComercioAPI.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\comercioapi\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08377F4-5DF0-4F29-B28A-F39BAECF1D64}|ComercioAPI.csproj|solutionrelative:comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ComercioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ComercioAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:28:37.135Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComercioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ComercioAPI\\Controllers\\ComercioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComercioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ComercioAPI\\Controllers\\ComercioController.cs",
+              "RelativeToolTip": "Controllers\\ComercioController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:16:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ClassLibrary2\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary2\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ClassLibrary2\\Servicio.cs",
+              "RelativeToolTip": "..\\ClassLibrary2\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:27:32.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comercio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Modelos\\Comercio.cs",
+              "RelativeDocumentMoniker": "..\\Modelos\\Comercio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Modelos\\Comercio.cs",
+              "RelativeToolTip": "..\\Modelos\\Comercio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:59:07.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comercio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ComercioAPI\\Comercio.cs",
+              "RelativeDocumentMoniker": "Comercio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\ComercioAPI\\Comercio.cs",
+              "RelativeToolTip": "Comercio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:14:36.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

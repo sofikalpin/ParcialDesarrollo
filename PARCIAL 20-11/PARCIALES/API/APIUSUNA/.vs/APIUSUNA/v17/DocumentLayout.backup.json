@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIUSUNA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F543B43B-4DE5-426D-B994-FFEF75476655}|APIUSUNA.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apiusuna\\usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F543B43B-4DE5-426D-B994-FFEF75476655}|APIUSUNA.csproj|solutionrelative:usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F543B43B-4DE5-426D-B994-FFEF75476655}|APIUSUNA.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apiusuna\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F543B43B-4DE5-426D-B994-FFEF75476655}|APIUSUNA.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "personaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIUSUNA\\Controllers\\personaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\personaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIUSUNA\\Controllers\\personaController.cs",
+              "RelativeToolTip": "Controllers\\personaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:17:24.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "USU.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIUSUNA\\USU.cs",
+              "RelativeDocumentMoniker": "USU.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIUSUNA\\USU.cs",
+              "RelativeToolTip": "USU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:15:03.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

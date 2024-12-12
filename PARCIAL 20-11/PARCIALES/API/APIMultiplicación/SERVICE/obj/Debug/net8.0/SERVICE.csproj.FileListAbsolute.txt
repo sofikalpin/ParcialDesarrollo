@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\bin\Debug\net8.0\SERVICE.deps.json
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\bin\Debug\net8.0\SERVICE.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\bin\Debug\net8.0\SERVICE.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\SERVICE.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\SERVICE.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\SERVICE.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\refint\SERVICE.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\SERVICE.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\APIMultiplicación\SERVICE\obj\Debug\net8.0\ref\SERVICE.dll

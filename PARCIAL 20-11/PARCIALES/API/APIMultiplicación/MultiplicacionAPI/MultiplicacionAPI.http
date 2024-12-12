@@ -1,0 +1,6 @@
+@MultiplicacionAPI_HostAddress = http://localhost:5167
+
+GET {{MultiplicacionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

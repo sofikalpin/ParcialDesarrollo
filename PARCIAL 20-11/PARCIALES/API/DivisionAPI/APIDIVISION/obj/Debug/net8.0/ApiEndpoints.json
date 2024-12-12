@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "APIDIVISION.Controllers.DivisionController",
+    "Method": "obtenerdiv",
+    "RelativePath": "Division",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Division"
+  }
+]

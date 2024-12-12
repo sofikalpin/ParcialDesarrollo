@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "MultiplesPI.Controllers.MultiController",
+    "Method": "GetData",
+    "RelativePath": "Multi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "getmulti"
+  }
+]

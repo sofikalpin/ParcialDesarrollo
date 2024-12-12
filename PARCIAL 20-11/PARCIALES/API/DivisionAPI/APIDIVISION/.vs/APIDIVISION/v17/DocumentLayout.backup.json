@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIDIVISION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F031B17-0E44-41C0-84D9-84E9B66B33F2}|APIDIVISION.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apidivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F031B17-0E44-41C0-84D9-84E9B66B33F2}|APIDIVISION.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F031B17-0E44-41C0-84D9-84E9B66B33F2}|APIDIVISION.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\apidivision\\controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F031B17-0E44-41C0-84D9-84E9B66B33F2}|APIDIVISION.csproj|solutionrelative:controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4317DDB1-3A4B-42C1-9EB5-6FD7F1A02501}|..\\Biblio\\Biblio.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\biblio\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4317DDB1-3A4B-42C1-9EB5-6FD7F1A02501}|..\\Biblio\\Biblio.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\biblio\\biblio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4317DDB1-3A4B-42C1-9EB5-6FD7F1A02501}|..\\Biblio\\Biblio.csproj|c:\\users\\usuario\\desktop\\parcial 20-11\\parciales\\api\\biblio\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Biblio\\IServicio.cs",
+              "RelativeDocumentMoniker": "..\\Biblio\\IServicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Biblio\\IServicio.cs",
+              "RelativeToolTip": "..\\Biblio\\IServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:49:59.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIDIVISION\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIDIVISION\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:16:24.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DivisionController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIDIVISION\\Controllers\\DivisionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DivisionController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\APIDIVISION\\Controllers\\DivisionController.cs",
+              "RelativeToolTip": "Controllers\\DivisionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:59:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Biblio",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Biblio\\Biblio.csproj",
+              "RelativeDocumentMoniker": "..\\Biblio\\Biblio.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Biblio\\Biblio.csproj",
+              "RelativeToolTip": "..\\Biblio\\Biblio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T21:49:34.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Biblio\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\Biblio\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PARCIAL 20-11\\PARCIALES\\API\\Biblio\\Servicio.cs",
+              "RelativeToolTip": "..\\Biblio\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:49:28.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

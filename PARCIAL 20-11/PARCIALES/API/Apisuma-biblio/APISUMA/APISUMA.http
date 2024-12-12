@@ -1,0 +1,6 @@
+@APISUMA_HostAddress = http://localhost:5139
+
+GET {{APISUMA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

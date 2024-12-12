@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\bin\Debug\net8.0\biblio.deps.json
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\bin\Debug\net8.0\biblio.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\bin\Debug\net8.0\biblio.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\biblio.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\refint\biblio.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\biblio.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\biblio\obj\Debug\net8.0\ref\biblio.dll

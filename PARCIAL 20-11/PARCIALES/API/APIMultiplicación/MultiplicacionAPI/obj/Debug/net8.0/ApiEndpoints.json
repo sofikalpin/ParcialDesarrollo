@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "MultiplicacionAPI.Controllers.MultiController",
+    "Method": "Multiplicar",
+    "RelativePath": "Multi/multiplicar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

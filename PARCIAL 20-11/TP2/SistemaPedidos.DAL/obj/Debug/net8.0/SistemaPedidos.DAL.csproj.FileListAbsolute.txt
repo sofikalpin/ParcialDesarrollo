@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\bin\Debug\net8.0\SistemaPedidos.DAL.deps.json
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\bin\Debug\net8.0\SistemaPedidos.DAL.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\bin\Debug\net8.0\SistemaPedidos.DAL.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaPedidos.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaPedidos.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaPedidos.DAL.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaPedidos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaPedidos.DAL.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\refint\SistemaPedidos.DAL.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaPedidos.DAL.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\ref\SistemaPedidos.DAL.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\bin\Debug\net8.0\SistemaPedidos.DTO.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\bin\Debug\net8.0\SistemaPedidos.Model.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\bin\Debug\net8.0\SistemaPedidos.DTO.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\bin\Debug\net8.0\SistemaPedidos.Model.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaPedidos.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedidos.DAL\obj\Debug\net8.0\SistemaP.C6A85938.Up2Date

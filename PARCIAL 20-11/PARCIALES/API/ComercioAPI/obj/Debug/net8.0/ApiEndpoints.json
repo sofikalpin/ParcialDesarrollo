@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ComercioAPI.Controllers.ComercioController",
+    "Method": "GetProductos",
+    "RelativePath": "api/Comercio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComercioAPI.Controllers.ComercioController",
+    "Method": "CreateProducto",
+    "RelativePath": "api/Comercio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "Modelos.Comercio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComercioAPI.Controllers.ComercioController",
+    "Method": "UpdateProducto",
+    "RelativePath": "api/Comercio",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "Modelos.Comercio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComercioAPI.Controllers.ComercioController",
+    "Method": "DeleteProducto",
+    "RelativePath": "api/Comercio/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

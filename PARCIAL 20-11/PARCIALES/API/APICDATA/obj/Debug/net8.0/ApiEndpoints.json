@@ -1,0 +1,19 @@
+[
+  {
+    "ContainingType": "APICDATA.Controllers.DATA",
+    "Method": "GetCantuser",
+    "RelativePath": "DATA",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cantidad",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "CANTIDAD"
+  }
+]

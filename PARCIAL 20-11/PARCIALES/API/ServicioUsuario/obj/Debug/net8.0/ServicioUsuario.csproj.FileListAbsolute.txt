@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\bin\Debug\net8.0\ServicioUsuario.deps.json
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\bin\Debug\net8.0\ServicioUsuario.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\bin\Debug\net8.0\ServicioUsuario.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\bin\Debug\net8.0\Modelosusu.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\bin\Debug\net8.0\Modelosusu.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ServicioUsuario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ServicioUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ServicioUsuario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ServicioUsuario.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ServicioUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\Servicio.A103C068.Up2Date
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ServicioUsuario.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\refint\ServicioUsuario.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ServicioUsuario.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\ServicioUsuario\obj\Debug\net8.0\ref\ServicioUsuario.dll

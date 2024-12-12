@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\bin\Debug\net8.0\SistemaPedido.Utility.deps.json
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\bin\Debug\net8.0\SistemaPedido.Utility.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\bin\Debug\net8.0\SistemaPedido.Utility.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaPedido.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaPedido.Utility.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaPedido.Utility.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaPedido.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaPedido.Utility.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\refint\SistemaPedido.Utility.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaPedido.Utility.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\ref\SistemaPedido.Utility.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\bin\Debug\net8.0\SistemaPedidos.DTO.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\bin\Debug\net8.0\SistemaPedidos.Model.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\bin\Debug\net8.0\SistemaPedidos.DTO.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\bin\Debug\net8.0\SistemaPedidos.Model.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaPedido.Utility.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\TP2\SistemaPedido.Utility\obj\Debug\net8.0\SistemaP.9E1F76F4.Up2Date

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PersonasApi.Controllers.PersonasController",
+    "Method": "Guardar",
+    "RelativePath": "api/Personas/guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuevoUsuario",
+        "Type": "APIUSUNA.USU",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

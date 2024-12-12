@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\bin\Debug\net8.0\Modelosusu.deps.json
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\bin\Debug\net8.0\Modelosusu.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\bin\Debug\net8.0\Modelosusu.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\Modelosusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\Modelosusu.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\Modelosusu.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\Modelosusu.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\Modelosusu.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\refint\Modelosusu.dll
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\Modelosusu.pdb
+C:\Users\Usuario\Desktop\PARCIAL 20-11\PARCIALES\API\Modelosusu\obj\Debug\net8.0\ref\Modelosusu.dll

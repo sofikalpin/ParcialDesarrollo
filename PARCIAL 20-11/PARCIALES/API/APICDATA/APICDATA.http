@@ -1,0 +1,6 @@
+@APICDATA_HostAddress = http://localhost:5162
+
+GET {{APICDATA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

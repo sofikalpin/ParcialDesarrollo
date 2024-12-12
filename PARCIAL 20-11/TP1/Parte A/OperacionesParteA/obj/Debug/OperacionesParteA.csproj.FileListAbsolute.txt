@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\PARCIAL 20-11\OperacionesParteA\bin\Debug\OperacionesParteA.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\OperacionesParteA\bin\Debug\OperacionesParteA.pdb
+C:\Users\Usuario\Documents\PARCIAL 20-11\OperacionesParteA\obj\Debug\OperacionesParteA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\OperacionesParteA\obj\Debug\OperacionesParteA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PARCIAL 20-11\OperacionesParteA\obj\Debug\OperacionesParteA.dll
+C:\Users\Usuario\Documents\PARCIAL 20-11\OperacionesParteA\obj\Debug\OperacionesParteA.pdb
